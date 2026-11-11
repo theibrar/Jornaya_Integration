@@ -1,7 +1,7 @@
 # Jornaya_Integration
 Jornaya_Integration
 
-# Step 1: Add Hidden Fields inside thje form tag
+# Step 1: Add Hidden Fields inside the form tag
 
 
               <input type="hidden" id="leadid_token" name="universal_leadid" value="">
